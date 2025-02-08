@@ -16,4 +16,5 @@ Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf zu ändern. Änderu
 
 6. Kontakt
 Bei Fragen zum Datenschutz kannst du uns unter der folgenden E-Mail-Adresse kontaktieren:
+
 [Deine Support-E-Mail-Adresse]
