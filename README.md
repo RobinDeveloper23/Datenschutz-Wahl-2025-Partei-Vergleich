@@ -3,7 +3,7 @@
 Der Schutz deiner personenbezogenen Daten ist uns sehr wichtig. In dieser Datenschutzerklärung informieren wir dich, wie wir mit deinen Daten umgehen, wenn du unsere App „Wahl 2025: Partei-Vergleich“ nutzt.
 
 1. Erhebung und Verwendung von Daten
-Unsere App erhebt keine personenbezogenen Daten, wenn du sie herunterlädst oder nutzt. Wir sammeln nur Daten, die technisch notwendig sind, um die App zu betreiben und ihre Funktionen bereitzustellen.
+Unsere App erhebt keine personenbezogenen Daten, wenn du sie herunterlädst oder nutzt. Wir sammeln grundsätzlich nur Daten, die technisch notwendig sind, um die App zu betreiben und ihre Funktionen bereitzustellen. Wir sammeln Daten vom Ergebnis des Wahl-O-Mats in der App, welche jedoch nicht mit dir verknüpft sind.
 
 2. Drittanbieter
 Unsere App kann Links zu externen Webseiten oder Inhalten enthalten, die nicht von uns betrieben werden. Wir übernehmen keine Verantwortung für den Datenschutz auf diesen Seiten.
